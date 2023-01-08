@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roboCards/static/css/main.cb3ec2fc.css",
+    "main.js": "/roboCards/static/js/main.68109d18.js",
+    "static/js/787.0be7d45d.chunk.js": "/roboCards/static/js/787.0be7d45d.chunk.js",
+    "index.html": "/roboCards/index.html",
+    "main.cb3ec2fc.css.map": "/roboCards/static/css/main.cb3ec2fc.css.map",
+    "main.68109d18.js.map": "/roboCards/static/js/main.68109d18.js.map",
+    "787.0be7d45d.chunk.js.map": "/roboCards/static/js/787.0be7d45d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3ec2fc.css",
+    "static/js/main.68109d18.js"
+  ]
+}
